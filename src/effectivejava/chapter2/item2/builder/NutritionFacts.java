@@ -1,6 +1,7 @@
 package effectivejava.chapter2.item2.builder;
 
 // Builder Pattern  (Page 13)
+//todo 优势：Builder具有具名的参数
 public class NutritionFacts {
     private final int servingSize;
     private final int servings;
