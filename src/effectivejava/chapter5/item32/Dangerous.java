@@ -14,5 +14,6 @@ public class Dangerous {
 
     public static void main(String[] args) {
         dangerous(List.of("There be dragons!"));
+
     }
 }
