@@ -10,5 +10,10 @@ public class test1 {
         }
         long end = System.currentTimeMillis();
         System.out.println(end-start);
+        m();
     }
+
+    private static void m() {
+    }
+
 }
